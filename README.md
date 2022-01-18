@@ -600,301 +600,34 @@ href="https://tracker.habhub.org/#%21qm=All&amp;q=HAPPYSAT-4FSK"
         </fieldset>
       </div>
       <br>
-        <fieldset style="margin: 0px 0px 1em; padding: 1.4em 1em 1em;
-          border: 1px dotted rgb(204, 204, 204); font: inherit;
-          vertical-align: baseline;"><legend style="margin: 0px;
-            padding: 0.2em; border: 0px; font-style: inherit;
-            font-variant: inherit; font-weight: normal; font-stretch:
-            inherit; font-size: 1.5em; line-height: 1.4; font-family:
-            inherit; vertical-align: baseline; background-color: white;">Radiosonde
-            Payload</legend>
-          <p style="margin: 0px 0px 1.5em; padding: 0px; border: 0px;
-            font: inherit; vertical-align: baseline;">All known
-            Instruments flying on HAPPYSAT-4FSK / INGE-DOAR<br>
-          </p>
-          <table class="smalltable" style="margin: 0px 0px 0.4em;
-            padding: 0px; border: 0px; font: inherit; vertical-align:
-            baseline; border-spacing: 0px; empty-cells: show;
-            border-collapse: collapse; width: 624px; clear: left;
-            background-color: rgb(229, 236, 249);">
-            <thead style="margin: 0px; padding: 0px; border: 0px; font:
-              inherit; vertical-align: baseline;"><tr style="margin:
-                0px; padding: 0px; border: 0px; font: inherit;
-                vertical-align: baseline;">
-                <th style="margin: 0px; padding: 4px 10px 4px 5px;
-                  border: 1px solid white; font-style: inherit;
-                  font-variant: inherit; font-weight: bold;
-                  font-stretch: inherit; font-size: inherit;
-                  line-height: inherit; font-family: inherit;
-                  vertical-align: top; background:
-                  linear-gradient(rgb(51, 142, 209), rgb(152, 194,
-                  244)); color: rgb(0, 51, 102); text-align: left;">Acronym</th>
-                <th style="margin: 0px; padding: 4px 10px 4px 5px;
-                  border: 1px solid white; font-style: inherit;
-                  font-variant: inherit; font-weight: bold;
-                  font-stretch: inherit; font-size: inherit;
-                  line-height: inherit; font-family: inherit;
-                  vertical-align: top; background:
-                  linear-gradient(rgb(51, 142, 209), rgb(152, 194,
-                  244)); color: rgb(0, 51, 102); text-align: left;">Full
-                  name</th>
-              </tr>
-            </thead><tbody style="margin: 0px; padding: 0px; border:
-              0px; font: inherit; vertical-align: baseline;">
-              <tr style="margin: 0px; padding: 0px; border: 0px; font:
-                inherit; vertical-align: baseline;">
-                <td style="margin: 0px; padding: 4px 10px 4px 5px;
-                  border: 1px solid white; font: inherit;
-                  vertical-align: top; background: rgb(229, 236, 249);
-                  width: 139px;">Foil Balloon<br>
-                </td>
-                <td style="margin: 0px; padding: 4px 10px 4px 5px;
-                  border: 1px solid white; font: inherit;
-                  vertical-align: top; background: rgb(229, 236, 249);">36
-                  Inch Latex<br>
-                </td>
-              </tr>
-              <tr>
-                <td valign="top">&nbsp;Microcontroller<br>
-                </td>
-                <td valign="top">&nbsp;STM32F100C8<br>
-                </td>
-              </tr>
-              <tr>
-                <td valign="top">&nbsp;GPS<br>
-                </td>
-                <td valign="top">&nbsp;UBX 6010 (Acquisition/Tracking
-                  Mode): ~210 mW<br>
-                </td>
-              </tr>
-              <tr>
-                <td valign="top">&nbsp;Radio<br>
-                </td>
-                <td valign="top">&nbsp;Si4032 ~170 mW (14dBm TX Power)<br>
-                </td>
-              </tr>
-            </tbody>
-          </table>
-          &nbsp;<a
-            href="https://x-f.lv/dev/habitat-graphs/payload/HAPPYSAT-4FSK#d"
-            id="open-instrument-table" class="button nephritis-button"
-            target="_blank" style="margin-top: 5px; margin-right: 0px;
-            margin-bottom: 5px; margin-left: 0px; padding-top: 5px;
-            padding-right: 20px; padding-bottom: 5px; padding-left:
-            20px; border-top-width: 0px; border-right-width: 0px;
-            border-bottom-width: 2px; border-left-width: 0px;
-            border-top-style: initial; border-right-style: initial;
-            border-bottom-style: solid; border-left-style: initial;
-            border-top-color: initial; border-right-color: initial;
-            border-bottom-color: rgb(33, 157, 85); border-left-color:
-            initial; border-image-source: initial; border-image-slice:
-            initial; border-image-width: initial; border-image-outset:
-            initial; border-image-repeat: initial; font-style: inherit;
-            font-variant-alternates: inherit; font-variant-caps:
-            inherit; font-variant-east-asian: inherit;
-            font-variant-ligatures: inherit; font-variant-numeric:
-            inherit; font-variant-position: inherit; font-weight:
-            inherit; font-stretch: inherit; font-size: 14px;
-            line-height: inherit; font-family: inherit; vertical-align:
-            top; cursor: pointer; color: white; text-decoration-color:
-            currentcolor; text-decoration-line: none;
-            text-decoration-style: solid; position: relative; display:
-            inline-block; text-align: center; border-top-left-radius:
-            3px; border-top-right-radius: 3px;
-            border-bottom-right-radius: 3px; border-bottom-left-radius:
-            3px; background-color: rgb(39, 174, 96); background-image:
-            none; background-repeat: repeat; background-attachment:
-            scroll; background-clip: border-box; background-origin:
-            padding-box; background-position-x: 0%;
-            background-position-y: 0%; background-size: auto auto;
-            box-shadow: 0px -2px rgb(33, 157, 85) inset;">HAPPYSAT-4FSK
-            instrument status and calibration</a><br>
-          &nbsp; <a
-            href="https://x-f.lv/dev/habitat-graphs/payload/AEROSOL#d"
-            id="open-instrument-table" class="button nephritis-button"
-            target="_blank" style="margin-top: 5px; margin-right: 0px;
-            margin-bottom: 5px; margin-left: 0px; padding-top: 5px;
-            padding-right: 20px; padding-bottom: 5px; padding-left:
-            20px; border-top-width: 0px; border-right-width: 0px;
-            border-bottom-width: 2px; border-left-width: 0px;
-            border-top-style: initial; border-right-style: initial;
-            border-bottom-style: solid; border-left-style: initial;
-            border-top-color: initial; border-right-color: initial;
-            border-bottom-color: rgb(33, 157, 85); border-left-color:
-            initial; border-image-source: initial; border-image-slice:
-            initial; border-image-width: initial; border-image-outset:
-            initial; border-image-repeat: initial; font-style: inherit;
-            font-variant-alternates: inherit; font-variant-caps:
-            inherit; font-variant-east-asian: inherit;
-            font-variant-ligatures: inherit; font-variant-numeric:
-            inherit; font-variant-position: inherit; font-weight:
-            inherit; font-stretch: inherit; font-size: 14px;
-            line-height: inherit; font-family: inherit; vertical-align:
-            top; cursor: pointer; color: white; text-decoration-color:
-            currentcolor; text-decoration-line: none;
-            text-decoration-style: solid; position: relative; display:
-            inline-block; text-align: center; border-top-left-radius:
-            3px; border-top-right-radius: 3px;
-            border-bottom-right-radius: 3px; border-bottom-left-radius:
-            3px; background-color: rgb(39, 174, 96); background-image:
-            none; background-repeat: repeat; background-attachment:
-            scroll; background-clip: border-box; background-origin:
-            padding-box; background-position-x: 0%;
-            background-position-y: 0%; background-size: auto auto;
-            box-shadow: 0px -2px rgb(33, 157, 85) inset;">INGE-DOAR
-            instrument status and calibration</a></fieldset>
-      </div>
-    </div>
-    <div class="block" style="margin: 0px; padding: 0px; border: 0px;
-      font-style: normal; font-variant-ligatures: normal;
-      font-variant-caps: normal; font-variant-numeric: inherit;
-      font-variant-east-asian: inherit; font-weight: 400; font-stretch:
-      inherit; font-size: 12.0012px; line-height: inherit; font-family:
-      &quot;Helvetica Neue&quot;, Arial, Helvetica, sans-serif;
-      vertical-align: baseline; overflow: hidden; color: rgb(34, 34,
-      34); letter-spacing: normal; orphans: 2; text-align: start;
-      text-indent: 0px; text-transform: none; white-space: normal;
-      widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;
-      background-color: rgb(255, 255, 255); text-decoration-style:
-      initial; text-decoration-color: initial;">
-      <br>
-      <fieldset style="margin: 0px 0px 1em; padding: 1.4em 1em 1em;
-        border: 1px dotted rgb(204, 204, 204); font: inherit;
-        vertical-align: baseline;"><legend style="margin: 0px; padding:
-          0.2em; border: 0px; font-style: inherit; font-variant:
-          inherit; font-weight: normal; font-stretch: inherit;
-          font-size: 1.5em; line-height: 1.4; font-family: inherit;
-          vertical-align: baseline; background-color: white;">Telecommunication
-          frequency channel information<span></span></legend>
-        <table id="satellitefrequencywrapper" style="margin: 0px 0px
-          0.4em; padding: 0px; border: 0px; font: inherit;
-          vertical-align: baseline; border-spacing: 0px; empty-cells:
-          show; border-collapse: collapse; width: 1274px; clear: left;">
-          <thead style="margin: 0px; padding: 0px; border: 0px; font:
-            inherit; vertical-align: baseline;"><tr style="margin: 0px;
-              padding: 0px; border: 0px; font: inherit; vertical-align:
-              baseline;">
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">Service</th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">Mode</th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">Frequency</th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">Shift<br>
-              </th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">BaudRate<br>
-              </th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;"><abbr
-                  title="Digital or Analog" style="margin: 0px; padding:
-                  0px; border-width: 0px 0px 1px; border-top-style:
-                  initial; border-right-style: initial;
-                  border-bottom-style: dotted; border-left-style:
-                  initial; border-top-color: initial;
-                  border-right-color: initial; border-bottom-color:
-                  rgb(102, 102, 102); border-left-color: initial;
-                  border-image: initial; font: inherit; vertical-align:
-                  baseline; cursor: help;">D/A</abbr></th>
-              <th style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font-style: inherit; font-variant:
-                inherit; font-weight: bold; font-stretch: inherit;
-                font-size: inherit; line-height: inherit; font-family:
-                inherit; vertical-align: top; background:
-                linear-gradient(rgb(51, 142, 209), rgb(152, 194, 244));
-                color: rgb(0, 51, 102); text-align: left;">Interval<br>
-              </th>
-            </tr>
-          </thead><tbody style="margin: 0px; padding: 0px; border: 0px;
-            font: inherit; vertical-align: baseline;">
-            <tr style="margin: 0px; padding: 0px; border: 0px; font:
-              inherit; vertical-align: baseline;">
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">4FSK</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">USB<br>
-              </td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">434.700
-                MHz</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">810&nbsp;
-                Hz</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">100<br>
-              </td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">D</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;">10
-                Sec.<br>
-              </td>
-            </tr>
-            <tr style="margin: 0px; padding: 0px; border: 0px; font:
-              inherit; vertical-align: baseline;">
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">RTTY<br>
-              </td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">USB</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">434.700 MHz</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">810&nbsp; Hz</td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">100 7N2<br>
-              </td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">A<br>
-              </td>
-              <td style="margin: 0px; padding: 4px 10px 4px 5px; border:
-                1px solid white; font: inherit; vertical-align: top;
-                background: rgb(229, 236, 249);">10 Sec.<br>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </fieldset>
-    </div>
   </body>
-</html>
+    </html>
+  
+### Instrument status and calibration
+
+[HAPPYSAT-4FSK](https://x-f.lv/dev/habitat-graphs/payload/HAPPYSAT-4FSK#d)
+
+[INGE-DOAR](https://x-f.lv/dev/habitat-graphs/payload/INGE-DOAR#d/)
+
+
+### Radiosonde Payload Instruments flying on HAPPYSAT-4FSK / INGE-DOAR
+
+Acronym | Full name |
+-------------|-------|
+Foil Balloon | 36 Inch Latex |
+Microcontroller | STM32F100C8 |
+GPS | UBX 6010 (Acquisition/Tracking Mode): ~210 mW | 
+Radio | Si4032 ~170 mW (14dBm TX Power) |
+
+![Screenshot 1](/img/rs1.png) ![Screenshot 1](/img/gas.jpg)
+
+### Telecommunication frequency channel information
+
+Service | Mode | Frequency | Shift | Baudrate | D/A | Interval |
+-------------|-------|----------|-------------|----------|----------|----------|
+4FSK | USB | 434.700 MHz | 810  Hz | 100 | D |  10 Sec. |
+RTTY | USB | 434.700 MHz | 810  Hz | 100 7N2 | A | 10 Sec. |
+
 ### Associated Radiosonde programs
 
 Note: red tag: no longer operational , green tag: future planned
